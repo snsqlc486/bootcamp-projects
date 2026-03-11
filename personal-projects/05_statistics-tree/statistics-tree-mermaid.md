@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     Start(["통계 분석 기법 선택"]) --> DataType{"데이터 유형?"}
     DataType -- Y: 연속형<br>X: 범주형 --> Comparison["집단 비교"]
