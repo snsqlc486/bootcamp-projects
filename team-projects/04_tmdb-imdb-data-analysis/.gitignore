@@ -1,0 +1,28 @@
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+.idea
+
+# 테스트 파일 및 파일 저장소
+test_*.ipynb
+files/
+
+# 가상환경
+venv/
+
+# 환경 변수
+.env
+
+# 로그 및 임시 파일
+*.log
+*.csv
+*.tsv
+*.json
+*.xml
+*.parquet
+*.xlsx
+*.h5
+*.pkl
+*.joblib
+*.model
